@@ -1,4 +1,5 @@
 package com.warren;
+
 import java.math.BigInteger;
 
 public class Main {
@@ -63,6 +64,25 @@ public class Main {
         return squaresum(x) - sumsquare(x);
     }
 
+    // problem 20 sum digit of factorial result
+    public static BigInteger factorial(BigInteger n){
+        if(n.equals(new BigInteger("1")) || n.equals(new BigInteger("0")))
+            return new BigInteger("1");
+        return n.multiply(factorial(n.subtract(new BigInteger("1"))));
+    }
+
+    public static int sumDigitFactorial(String c){
+        BigInteger cible = new BigInteger(c);
+        BigInteger fact = factorial(cible);
+        String chaine = fact.toString();
+        int result = 0;
+        for (int i = 0; i<chaine.length(); i++){
+            result += chaine.charAt(i) - '0';
+        }
+
+        return result;
+    }
+
 
     public static void main(String[] args) {
         int eul1;
@@ -74,6 +94,8 @@ public class Main {
         System.out.println("***********\n Problem 2\n" + "sum pairs=" + eul2);
         System.out.println("***********\n Problem 6\n" + "the difference between the sum of the squares of the first\n " +
                 "one hundred natural numbers and the square of the sum = " + problemSix(100));
+
+        System.out.println("***********\n Problem 20\n" + "sum digit of factorial=" + sumDigitFactorial("100"));
     }
 }
 
