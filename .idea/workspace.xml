@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0493ae76-bb97-40f2-b4a1-c9c8a250f80c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/warren/projecteuler/Problem20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/warren/Utils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projecteulertrain/com/warren/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/projecteulertrain/com/warren/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projecteulertrain/com/warren/projecteuler/Problem6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/projecteulertrain/com/warren/projecteuler/Problem6.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/warren/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/warren/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/warren/projecteuler/Problem20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/warren/projecteuler/Problem20.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>

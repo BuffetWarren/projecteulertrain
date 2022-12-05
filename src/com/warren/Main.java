@@ -12,7 +12,7 @@ public class Main {
         Problem1.sumOfMultiples(3, 5, 1000);
         Problem2.sumOfEvenValuedFibonacciTerms(1,2, 4000000);
         Problem6.sumOfSquaresAndSquareOfSumDifference(100);
-        Problem20.sumOfDigitsInFactorialOf("100");
+        Problem20.sumOfDigitsInFactorialOf(100);
     }
 }
 

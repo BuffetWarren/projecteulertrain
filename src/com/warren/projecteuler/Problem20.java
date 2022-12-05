@@ -2,6 +2,8 @@ package com.warren.projecteuler;
 
 import java.math.BigInteger;
 
+import static com.warren.Utils.factorial;
+
 public class Problem20 {
     /**
      * Problem Description : n! means n × (n − 1) × ... × 3 × 2 × 1
@@ -11,8 +13,8 @@ public class Problem20 {
      * <p>
      * Find the sum of the digits in the number 100!
      */
-    public static void sumOfDigitsInFactorialOf(String number) {
-        BigInteger fact = factorial(new BigInteger(number));
+    public static void sumOfDigitsInFactorialOf(int number) {
+        BigInteger fact = factorial(number);
         String numberStringValue = fact.toString();
         int result = 0;
         for (int i = 0; i < numberStringValue.length(); i++) {
@@ -21,11 +23,5 @@ public class Problem20 {
 
         System.out.println("Problem 20 : The sum of the digits in the number " + number + "! is : " + result);
         System.out.println("***********************************************");
-    }
-
-    public static BigInteger factorial(BigInteger n) {
-        if (n.equals(new BigInteger("1")) || n.equals(new BigInteger("0")))
-            return new BigInteger("1");
-        return n.multiply(factorial(n.subtract(new BigInteger("1"))));
     }
 }
