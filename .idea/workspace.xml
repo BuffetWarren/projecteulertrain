@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0493ae76-bb97-40f2-b4a1-c9c8a250f80c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/projecteulertrain/META-INF/projecteulertrain.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/projecteulertrain/com/warren/projecteuler/Problem1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/projecteulertrain/com/warren/projecteuler/Problem2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/projecteulertrain/com/warren/projecteuler/Problem6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/warren/projecteuler/Problem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/warren/projecteuler/Problem2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/warren/projecteuler/Problem20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/warren/projecteuler/Problem6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/warren/projecteuler/Problem9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/projecteulertrain/com/warren/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/projecteulertrain/com/warren/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/warren/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/warren/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +47,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -88,8 +99,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669712846112</updated>
-      <workItem from="1669712858763" duration="1563000" />
-      <workItem from="1669989204325" duration="7226000" />
     </task>
     <servers />
   </component>
