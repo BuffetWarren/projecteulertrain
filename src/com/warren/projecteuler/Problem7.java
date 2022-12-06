@@ -23,7 +23,6 @@ public class Problem7 {
         while (primeCounter != positionValue){
             if (isPrime(number)){
                 primeCounter++;
-                //System.out.println(number +" is prime");
             }
             number++;
         }
