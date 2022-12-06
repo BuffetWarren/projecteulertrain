@@ -6,8 +6,6 @@ import com.warren.projecteuler.Problem20;
 import com.warren.projecteuler.Problem6;
 import com.warren.projecteuler.Problem9;
 
-import java.math.BigInteger;
-
 public class Main {
     public static void main(String[] args) {
         Problem1.sumOfMultiples(3, 5, 1000);
