@@ -8,4 +8,14 @@ public class Utils {
             return BigInteger.valueOf(1);
         return BigInteger.valueOf(n).multiply(factorial(n-1));
     }
+
+    public static BigInteger fibonacci(int n) {
+        if (n == 0) {
+            return BigInteger.ZERO;
+        } else if(n == 1) {
+            return BigInteger.ONE;
+        } else {
+            return fibonacci(n-1).add(fibonacci(n-2));
+        }
+    }
 }
