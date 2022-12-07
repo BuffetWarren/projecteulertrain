@@ -12,7 +12,7 @@ public class Main {
         Problem7.firstPrimeNumber(10001);
         Problem9.specialPythagoreanTripletProduct(1000);
         Problem10.sumPrimeBelowTo(10);
-        Problem20.sumOfDigitsInFactorialOf("100");
+        Problem20.sumOfDigitsInFactorialOf(100);
     }
 }
 
