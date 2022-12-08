@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0493ae76-bb97-40f2-b4a1-c9c8a250f80c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/projecteulertrain/com/warren/Utils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/warren/Utils.java" afterDir="false" />
+    <list default="true" id="0493ae76-bb97-40f2-b4a1-c9c8a250f80c" name="Default Changelist" comment="Merge branch 'main' of https://github.com/BuffetWarren/projecteulertrain into improvement-wr/06-12-2022&#10;&#10;# Conflicts:&#10;#&#9;src/com/warren/Main.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/projecteulertrain/com/warren/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/projecteulertrain/com/warren/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projecteulertrain/com/warren/projecteuler/Problem20.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/projecteulertrain/com/warren/projecteuler/Problem20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/projecteulertrain/com/warren/projecteuler/Problem10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/projecteulertrain/com/warren/projecteuler/Problem10.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/warren/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/warren/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/warren/projecteuler/Problem20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/warren/projecteuler/Problem20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/warren/projecteuler/Problem9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/warren/projecteuler/Problem9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/warren/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/warren/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/warren/projecteuler/Problem10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/warren/projecteuler/Problem10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/warren/projecteuler/Problem7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/warren/projecteuler/Problem7.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -96,6 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669712846112</updated>
+      <workItem from="1670518146372" duration="2113000" />
     </task>
     <servers />
   </component>
@@ -114,5 +113,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge branch 'main' of https://github.com/BuffetWarren/projecteulertrain into improvement-wr/06-12-2022&#10;&#10;# Conflicts:&#10;#&#9;src/com/warren/Main.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'main' of https://github.com/BuffetWarren/projecteulertrain into improvement-wr/06-12-2022&#10;&#10;# Conflicts:&#10;#&#9;src/com/warren/Main.java" />
   </component>
 </project>
