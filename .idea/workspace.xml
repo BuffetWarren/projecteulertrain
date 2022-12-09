@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0493ae76-bb97-40f2-b4a1-c9c8a250f80c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/warren/projecteuler/Problem10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/projecteulertrain/com/warren/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/projecteulertrain/com/warren/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projecteulertrain/com/warren/projecteuler/Problem7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/projecteulertrain/com/warren/projecteuler/Problem7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/warren/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/warren/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/projecteulertrain/com/warren/projecteuler/Problem2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/projecteulertrain/com/warren/projecteuler/Problem2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/projecteulertrain/com/warren/projecteuler/Problem9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/projecteulertrain/com/warren/projecteuler/Problem9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/warren/projecteuler/Problem10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/warren/projecteuler/Problem10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/warren/projecteuler/Problem7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/warren/projecteuler/Problem7.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,7 +37,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Euler/primeNumber" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -47,11 +47,11 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.warren.projecteuler" />
     </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.warren.projecteuler" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -93,6 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669712846112</updated>
+      <workItem from="1670485378064" duration="536000" />
     </task>
     <servers />
   </component>
