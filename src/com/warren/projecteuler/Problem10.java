@@ -12,9 +12,9 @@ public class Problem10 {
 
     public static void sumOfPrimeNumbersBelow(int number){
         BigInteger result = BigInteger.ZERO;
-        for (int i = 2; i <= number; i++){
-            if (Utils.isPrime(i)){
-                result = result.add(BigInteger.valueOf(i));
+        for (BigInteger i = BigInteger.TWO; i.compareTo(BigInteger.valueOf(number)) <= 0; i = i.add(BigInteger.ONE)){
+            if (Utils.isPrime(i.intValue())){
+                result = result.add(i);
             }
         }
 

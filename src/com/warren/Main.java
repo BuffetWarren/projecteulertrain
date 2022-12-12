@@ -11,7 +11,7 @@ public class Main {
         Problem6.sumOfSquaresAndSquareOfSumDifference(100);
         Problem7.firstPrimeNumber(10001);
         Problem9.specialPythagoreanTripletProduct(1000);
-        Problem10.sumOfPrimeNumbersBelow(10);
+        Problem10.sumOfPrimeNumbersBelow(2000000);
         Problem20.sumOfDigitsInFactorialOf(100);
     }
 }
