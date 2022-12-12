@@ -3,10 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="0493ae76-bb97-40f2-b4a1-c9c8a250f80c" name="Default Changelist" comment="Merge branch 'main' of https://github.com/BuffetWarren/projecteulertrain into improvement-wr/06-12-2022&#10;&#10;# Conflicts:&#10;#&#9;src/com/warren/Main.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/projecteulertrain/META-INF/projecteulertrain.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/projecteulertrain/com/warren/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/projecteulertrain/com/warren/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/projecteulertrain/com/warren/projecteuler/Problem10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/projecteulertrain/com/warren/projecteuler/Problem10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/projecteulertrain/com/warren/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/projecteulertrain/com/warren/Utils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/projecteulertrain/com/warren/projecteuler/Problem2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/projecteulertrain/com/warren/projecteuler/Problem2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/projecteulertrain/com/warren/projecteuler/Problem7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/projecteulertrain/com/warren/projecteuler/Problem7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/projecteulertrain/com/warren/projecteuler/Problem9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/projecteulertrain/com/warren/projecteuler/Problem9.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/warren/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/warren/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/warren/projecteuler/Problem10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/warren/projecteuler/Problem10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/warren/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/warren/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/warren/projecteuler/Problem2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/warren/projecteuler/Problem2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/warren/projecteuler/Problem7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/warren/projecteuler/Problem7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/warren/projecteuler/Problem9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/warren/projecteuler/Problem9.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +100,7 @@
       <option name="presentableId" value="Default" />
       <updated>1669712846112</updated>
       <workItem from="1670518146372" duration="5093000" />
-      <workItem from="1670828664193" duration="5066000" />
+      <workItem from="1670828664193" duration="6914000" />
     </task>
     <servers />
   </component>

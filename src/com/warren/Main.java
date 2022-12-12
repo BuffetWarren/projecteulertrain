@@ -2,8 +2,6 @@ package com.warren;
 
 import com.warren.projecteuler.*;
 
-import java.math.BigInteger;
-
 public class Main {
     public static void main(String[] args) {
         Problem1.sumOfMultiples(3, 5, 1000);

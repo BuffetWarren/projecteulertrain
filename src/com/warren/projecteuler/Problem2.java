@@ -24,7 +24,7 @@ public class Problem2 {
         }
 
         System.out.println("Problem 2 : By considering the terms in the Fibonacci sequence starting with " + firstTerm +
-                " And " + secondTerm + " whose values do not exceed four million, the sum of the even-valued terms is : " + result);
+                " And " + secondTerm + " whose values do not exceed " + maximumTermsValue + ", the sum of the even-valued terms is : " + result);
         System.out.println("***********************************************");
     }
 }
